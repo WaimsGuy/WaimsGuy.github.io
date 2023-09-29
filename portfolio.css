@@ -245,6 +245,7 @@ p.project-title {
 }
 
 .tile-link {
+	target: _blank;
     width: 60%;
     max-width: 650px;
     height: auto;
